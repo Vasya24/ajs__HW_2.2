@@ -1,0 +1,22 @@
+{
+  "name": "another-package",
+  "version": "1.0.0",
+  "description": "\"Homework 2.1 for AJS-9 in Netology\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vasya24/ajs__HW_2.2.git"
+  },
+  "keywords": [
+    "'homework\""
+  ],
+  "author": "Vasya24",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vasya24/ajs__HW_2.2/issues"
+  },
+  "homepage": "https://github.com/Vasya24/ajs__HW_2.2#readme"
+}
